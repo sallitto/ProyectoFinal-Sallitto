@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: green
+}
+
+#form{
+    margin: 2% 30%;
+    background-color: black;
+    color: green;
+}
+main{
+    min-height: calc(100vh - 100px);
+}
+.contenedor{
+    padding: 15px;
+}
+
+th{
+    color: grey;
+}
+
+td{
+    color: green;
+}
