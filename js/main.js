@@ -189,12 +189,3 @@ function update(index) {
       table();
       document.getElementById("form").innerHTML = form;
 }
-
-
-function repeatName(){
-  let name = document.getElementById('name');
-
-  book.some((libro) =>{
-    return libro.name == name; 
-  })
-}
